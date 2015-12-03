@@ -1,0 +1,8 @@
+[ 2015-11-25T09:54:30+08:00 ] ::1 /tjmetro/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000723s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013468s ]
+
